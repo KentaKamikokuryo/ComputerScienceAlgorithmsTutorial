@@ -1,4 +1,4 @@
-
+# name space
 class BinarySearch:
 
     @staticmethod
